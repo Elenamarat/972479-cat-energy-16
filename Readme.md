@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Марат Ахметзянов](https://up.htmlacademy.ru/adaptive/16/user/972479).
-* Наставник: `Неизвестно`.
+* Наставник: Ольга Ветер.
 
 ---
 
